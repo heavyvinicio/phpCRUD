@@ -1,4 +1,4 @@
-# phpCRUD
+# Laboratorio de CRUD sobre PHP y la extensión MySQL
 Ejemplo de un CRUD con mysqli de PHP.
 
 #Instrucciones para instalación
